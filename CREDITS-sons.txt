@@ -1,0 +1,10 @@
+Sons importés dans le pack
+==========================
+
+awp_reload.ogg
+  Son de rechargement de l'AWP (Counter-Strike)
+  Auteur  : GFL7
+  Source  : https://github.com/Deases/GunLib (sounds/awp_reload.ogg)
+  Licence : CC0 1.0 Universal (domaine public)
+
+Utilisé pour : item.crossbow.loading_start (rechargement de l'arbalète)

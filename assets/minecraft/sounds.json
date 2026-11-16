@@ -38,5 +38,35 @@
         "volume": 1.5
       }
     ]
+  },
+  "item.crossbow.loading_start": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/awp_reload",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.crossbow.loading_middle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/awp_reload",
+        "pitch": 1,
+        "volume": 0.001
+      }
+    ]
+  },
+  "item.crossbow.loading_end": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/awp_reload",
+        "pitch": 1,
+        "volume": 0.001
+      }
+    ]
   }
 }
